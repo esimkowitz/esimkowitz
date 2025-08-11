@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Founding Engineer at [Wave Terminal](https://waveterm.dev), where we're building a brand new, open-source terminal application to turbocharge your workflows!
+I'm a Senior Control Systems Engineer at [Vale Concepts](https://valenow.com) building the future of premium beverage delivery and getting seriously addicted to matcha!🍵
 - 🌱 I’m currently learning Go, React, Typescript, Rust, Home Assistant, and ROS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/esimkowitz/) is the only place I respond if I don't know you 😄
