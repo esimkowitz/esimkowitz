@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a Senior Control Systems Engineer at [Vale Concepts](https://valenow.com) building the future of premium beverage delivery and getting seriously addicted to matcha!🍵
-- 🌱 I’m currently learning Go, React, Typescript, Rust, Home Assistant, and ROS
+- 🌱 I’m currently learning Embedded Rust, Typescript, Home Assistant, and ROS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/esimkowitz/) is the only place I respond if I don't know you 😄
